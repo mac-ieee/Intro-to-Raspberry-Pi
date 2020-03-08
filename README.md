@@ -2,14 +2,14 @@
 All material needed to run the beginner Raspberry Pi workshop can be found in this repository.
 
 *Steps to organizing this workshop:*
-- Book a computer lab at least 3 weeks before. (BSB 249 is a good option)
-- Start promoting at least 2 weeks before. 
-- Ask for volunteers (ideally 5, one per station and one general floater)
-- Train volunteers the week of the workshop. 
--- Poll for training date and time.
--- Book a lab for volunteer training. (JHE labs are nice)
-- Assign a lead to present introduction slides.
-- Pre-order food (i.e. pizza) a day before, according to number of participants. (don't forget to account for volunteers and execs, and different dietary restrictions)
+1. Book a computer lab at least 3 weeks before. (BSB 249 is a good option)
+2. Start promoting at least 2 weeks before. 
+3. Ask for volunteers (ideally 5, one per station and one general floater)
+4. Train volunteers the week of the workshop. 
+    * Poll for training date and time.
+    * Book a lab for volunteer training. (JHE labs are nice)
+5. Assign a lead to present introduction slides.
+6. Pre-order food (i.e. pizza) a day before, according to number of participants. (don't forget to account for volunteers and execs, and different dietary restrictions)
 
 
 ## Items required:
