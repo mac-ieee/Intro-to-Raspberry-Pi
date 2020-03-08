@@ -8,8 +8,8 @@ All material needed to run the beginner Raspberry Pi workshop can be found in th
    * Set capacity based on inventory.
    * Establish payment process.
    * Announce to IEEE members as part of office hour duties.
-3. Ask for volunteers (ideally 5, one per station and one general floater)
-4. Train volunteers the week of the workshop. 
+3. Ask for volunteers (ideally 5, one per section and one general floater)
+4. Train volunteers the week of the workshop; volunteers typically specialize in one section, i.e. camera, audio...etc. 
     * Make sure everything works before training day.
     * Poll for training date and time.
     * Book a lab for volunteer training. (JHE labs are nice)
@@ -51,20 +51,20 @@ All material needed to run the beginner Raspberry Pi workshop can be found in th
 - Raspberry Pi 3 Model B
 - microSD card
 - Power supply
-- Monitor (if not available)
-- Mouse and keyboard (if not available)
+- Monitor (if not already available)
+- Mouse and keyboard (if not already available)
 
-### Audio station:
+### Audio section:
 - Speaker
 
-### Camera station:
+### Camera section:
 - PiCamera
 
-### PWM & Distance Sensor station:
+### PWM & Distance Sensor section:
 - RGB LED
 - Ultrasonic distance sensor
 
-### ADC station:
+### ADC section:
 - Arduino UNO
 - USB Arduino connector cable
 
