@@ -5,10 +5,12 @@ All material needed to run the beginner Raspberry Pi workshop can be found in th
 1. Book a computer lab at least 3 weeks before. (BSB 249 is a good option)
 2. Start promoting at least 2 weeks before. 
    * Create google form to register participants.
+   * Set capacity based on inventory.
    * Establish payment process.
    * Announce to IEEE members as part of office hour duties.
 3. Ask for volunteers (ideally 5, one per station and one general floater)
 4. Train volunteers the week of the workshop. 
+    * Make sure everything works before training day.
     * Poll for training date and time.
     * Book a lab for volunteer training. (JHE labs are nice)
 5. Assign a lead to present introduction slides.
