@@ -1,4 +1,4 @@
-# Beginner Raspberry Pi Workshop
+# Intro to Raspberry Pi Workshop
 All material needed to run the beginner Raspberry Pi workshop can be found in this repository.
 
 *Steps to organizing this workshop:*
