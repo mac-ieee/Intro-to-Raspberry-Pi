@@ -8,7 +8,7 @@ All material needed to run the beginner Raspberry Pi workshop can be found in th
 
 #### ⌚️ To prepare for the workshop:
 - microSD card reader
-- Extra parts of each component
+- Extra parts of each component (including station components)
 
 *Software:*
 - SD Card Formatter, to format microSD cards
@@ -16,9 +16,11 @@ All material needed to run the beginner Raspberry Pi workshop can be found in th
 
 #### 🧰 To give to participants during workshop:
 - Breadboard
-- Resistors
-- F/F wires
-- 3 buttons
+- 10 1k-Resistors
+- 3 2k-Resistors
+- F/M wires
+- M/M wires
+- 3 Buttons
 - Potentiometer
 - 10 Red LEDs
 
@@ -30,10 +32,10 @@ All material needed to run the beginner Raspberry Pi workshop can be found in th
 - Mouse and keyboard (if not available)
 
 ### Audio station:
-- Speaker, 1 per participant
+- Speaker
 
 ### Camera station:
-- PiCamera, 1 per participant
+- PiCamera
 
 ### PWM & Distance Sensor station:
 - RGB LED
