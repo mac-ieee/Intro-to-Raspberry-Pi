@@ -12,7 +12,7 @@ All material needed to run the beginner Raspberry Pi workshop can be found in th
     * Poll for training date and time.
     * Book a lab for volunteer training. (JHE labs are nice)
 5. Assign a lead to present introduction slides.
-6. Email participants with details and agenda of workshop. (Date, time, agenda, building and room location)
+6. Email participants with details and agenda of workshop 2 days before. (Date, time, agenda, building and room location)
 7. Pre-order food (i.e. pizza) a day before, according to number of participants. (don't forget to account for volunteers and execs, and different dietary restrictions)
 8. Run workshop!
    * Set up 4 stations with about 4-5 Pis. (preferrably at corners of lab)
